@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "title"
+title: " A new title OOOOOOOOOOOOOOOO"
 date: 2013-12-31 19:14:12 +0200
 comments: true
-categories: 
+categories:
 ---
